@@ -1,4 +1,4 @@
-# NillionBecomeVerifier
+# Nillion Testneti İçin Önemli!
 > herhangi bir sunucuda çalıştırılabilir.
 ```console
 # gerekli güncellemeler ve docker kurulumu
