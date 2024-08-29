@@ -1,4 +1,4 @@
-# Nillion Testneti İçin Önemli!
+# Nillion Verifier Node Kurulumu
 > herhangi bir sunucuda çalıştırılabilir.
 ```console
 # gerekli güncellemeler ve docker kurulumu
